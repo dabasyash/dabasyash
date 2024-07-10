@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dabasyash
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in App Development 
+- 🌱 I’m currently learning Javascript & C++ 
 - 📫 How to reach me dabasyash24@gmail.com
 
 <!---
