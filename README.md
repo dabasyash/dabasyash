@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dabasyash
 - 👀 I’m interested in App Development 
 - 🌱 I’m currently learning Javascript & C++ 
-- 📫 How to reach me dabasyash24@gmail.com
+- 📫 How to reach me dabasyash58@gmail.com
 
 <!---
 dabasyash/dabasyash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
